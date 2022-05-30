@@ -1,5 +1,6 @@
 body {
     color: darkslategrey;
     background-color: aqua;
-    max-width: 100px;
+    max-width: 100px; 
+    padding: 10px auto;
 }
