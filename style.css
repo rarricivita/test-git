@@ -1,4 +1,5 @@
 body {
     color: darkslategrey;
     background-color: aqua;
+    max-width: 100px;
 }
