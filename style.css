@@ -2,4 +2,6 @@ body {
     color: darkslategrey;
     background-color: red;
     background-color: aqua;
+    max-width: 100px; 
+    padding: 10px auto;
 }
